@@ -29,9 +29,9 @@ This repo is for the course project of Software Development course IIIT S22.
  2. Using Faiss
     Run main.py
    
-  Testing using postman
-  POST http://localhost:8000/predict
-  {
-    "data": "Polymer Quantum Mechanics and its Continuum Limit A rather non-standard quantum representation of the canonicale"
-    }
+  Testing using postman</br>
+  POST http://localhost:8000/predict</br>
+  {</br>
+    "data": "Polymer Quantum Mechanics and its Continuum Limit A rather non-standard quantum representation of the canonicale"</br>
+    }</br>
   
