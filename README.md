@@ -1,6 +1,16 @@
 # SSD_S22_Project
 This repo is for the course project of Software Development course IIIT S22.
 
+Contributors:-
+1. Lokesh Sharma
+2. Piysuh Singh
+3. Mayush Kumar
+4. Sumeet Agrawal
+
+Motivation for this project is to create a fast Information Retrieval system of research papers using MERN Stack(UI), Elastic Search(retrieval) and Transformers(NLP).
+
+
+
 
 1. Elastic Search
     1.1 Installation
