@@ -10,10 +10,10 @@ This repo is for the course project of Software Development course IIIT S22.
 
     1.2 Test Elastic search API:
 
-    https://localhost:9200/ssd-search/_mapping
-    https://localhost:9200/ssd-search/_search
-    https://localhost:9200/ssd-search/_search?pretty=true&q=*:*
-    https://localhost:9200/ssd-search/_count
+    https://localhost:9200/ssd-search/_mapping </br>
+    https://localhost:9200/ssd-search/_search </br>
+    https://localhost:9200/ssd-search/_search?pretty=true&q=*:* </br>
+    https://localhost:9200/ssd-search/_count </br>
     
     1.3 Search using POSTMAN
     
