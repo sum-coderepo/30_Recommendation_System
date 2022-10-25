@@ -19,12 +19,12 @@ This repo is for the course project of Software Development course IIIT S22.
     
     Sample query to Search (Not the vectorised embeddings)
     nyc-restaurants/_search
-    {
-        "query": {
-            "match": {
-                "_id": "50127304"
-            }
-     }
+    {</br>
+        "query": {</br>
+            "match": {</br>
+                "_id": "50127304"</br>
+            }</br>
+     }</br>
  
  2. Using Faiss
     Run main.py
