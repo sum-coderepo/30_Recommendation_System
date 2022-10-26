@@ -1,5 +1,8 @@
 # SSD_S22_Project
-This repo is for the course project of Software Development course IIIT S22.
+This repo is for the course project of Software Development course IIIT S22.</br>
+
+Dataset for this project is taken from </br>
+https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 Contributors:-
 1. Lokesh Sharma
