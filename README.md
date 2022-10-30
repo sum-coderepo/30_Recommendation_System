@@ -15,11 +15,11 @@ Motivation for this project is to create a fast Information Retrieval system of 
 
 
 
-1. Elastic Search
-    1.1 Installation
-    a. Download Elastic Search msi for windows.
-    b. Start elastic search server as ".\bin\elasticsearch.bat"
-    c. Reset elastic search password - .\bin\elasticsearch-reset-password.bat -u elastic.
+1. Elastic Search</br>
+    1.1 Installation</br>
+    a. Download Elastic Search msi for windows.</br>
+    b. Start elastic search server as ".\bin\elasticsearch.bat"</br>
+    c. Reset elastic search password - .\bin\elasticsearch-reset-password.bat -u elastic.</br>
 
     1.2 Test Elastic search API:
 
