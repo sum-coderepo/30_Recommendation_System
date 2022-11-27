@@ -1,0 +1,9 @@
+POST http://localhost:3001/app/signup HTTP/1.1
+Content-Type: application/json
+
+{ 
+    "name":"mayush",
+    "age":23,
+    "email":"mayush.kumar@students.iiit.ac.in",
+    "password":"123456" 
+}
