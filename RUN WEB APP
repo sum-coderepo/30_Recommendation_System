@@ -1,0 +1,8 @@
+GO TO SEARCHBAR FOLDER
+INSTALL dependencies --->>    npm install 
+start frontend app -->>> npm start
+
+
+Go to server 
+INSTALL dependencies --->>    npm install 
+start backend app -->>> node index
