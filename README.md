@@ -1,4 +1,8 @@
 # SSD_S22_Project
+
+### VIDEO LINK - WORKING PROJECT
+https://drive.google.com/file/d/1SWa2rYGu3FfgTMk6JKMv2dTPT1vpxWRc/view?usp=sharing
+
 This repo is for the course project of Software Development course IIIT S22.</br>
 
 Dataset for this project is taken from </br>
@@ -6,7 +10,7 @@ https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 Contributors:-
 1. Lokesh Sharma
-2. Piysuh Singh
+2. Piyush Singh
 3. Mayush Kumar
 4. Sumeet Agrawal
 
